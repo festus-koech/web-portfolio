@@ -1,0 +1,23 @@
+
+# Portfolio
+#### Portfolio iS website that has description of whom am that is curriculum vitae.It was created on 5/12/2020
+#### Portfolio iS website that has description of whom am that is curriculum vitae.It was created on 5/12/2020.
+## Author
+By Festus Koech.
+## Description of my portfolio
+This project have all the information about  me. A portfolio is used as a curriculum  vitae and purposely for letting  people who want to offer you job get more information about you.The website will act as a template/guide for those people who want to offer their curriculum  vitae as a live link rather than documented hard/soft copy curriculum vitae.
+## project Set up Instructions
+* Ctrl + alt + t to open the terminal
+* now git clone https://github.com/festus-koech/web-portfolio.git
+* cd portfolio
+* you can use code . to open it.
+## Known Bugs
+## Technologies Used
+* HTML5
+* CSS
+* Git and Github
+## Support and contact details
+I would like to give credit to my Technical mentor for the guidance he gave me towards the development of this web
+### License
+* Licensed under the MIT license
+Copyright (c) [2020] (Festus Koech)
